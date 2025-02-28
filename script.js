@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
     const chambres = [
-        { id: 1, nom: "Chambre Deluxe", prix: "20 000 FCFA", image: "images/chambre0.png" },
-        { id: 2, nom: "Chambre Standard", prix: "15 000 FCFA", image: "images/chambre1.png" },
-        { id: 3, nom: "Suite VIP", prix: "30 000 FCFA", image: "images/chambre2.png" }
+        { id: 1, nom: "Chambre Deluxe", prix: "20 000 FCFA", image: "images/chambre1.png" },
+        { id: 2, nom: "Chambre Standard", prix: "15 000 FCFA", image: "images/chambre2.png" },
+        { id: 3, nom: "Suite VIP", prix: "30 000 FCFA", image: "images/chambre3.png" }
     ];
 
     const chambreList = document.getElementById("chambre-list");
@@ -105,9 +105,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     const chambres = [
-        { id: 1, nom: "Chambre Deluxe", prix: "20 000 FCFA", image: "images/chambre0.png" },
-        { id: 2, nom: "Chambre Standard", prix: "15 000 FCFA", image: "images/chambre1.png" },
-        { id: 3, nom: "Suite VIP", prix: "30 000 FCFA", image: "images/chambre2.png" }
+        { id: 1, nom: "Chambre Deluxe", prix: "20 000 FCFA", image: "images/chambre1.png" },
+        { id: 2, nom: "Chambre Standard", prix: "15 000 FCFA", image: "images/chambre2.png" },
+        { id: 3, nom: "Suite VIP", prix: "30 000 FCFA", image: "images/chambre3.png" }
     ];
 
     const chambreList = document.getElementById("chambre-list");
